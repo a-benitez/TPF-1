@@ -1,0 +1,23 @@
+/*Hoja de estilos básicos*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color:white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+.logo {
+    max-width: 180px;
+    min-width: 160px;
+}
